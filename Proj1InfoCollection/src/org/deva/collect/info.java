@@ -9,4 +9,8 @@ public class info {
 	{
 		System.out.println("info.prasnalInfo()");
 	}
+	public void collect() {
+		System.out.println("info.collect()");
+		System.out.println("Enter Data");
+	}
 }
